@@ -1,0 +1,49 @@
+.icon-button{
+	-fx-min-width: 52;
+	-fx-min-height: 42;
+	-fx-background-color: transparent;
+	-fx-background-repeat: no-repeat no-repeat;
+	-fx-background-size: 38 38;
+	-fx-background-position: center;
+	
+}
+
+#mute-button-high{
+	-fx-background-image: url("/assets/icons/highVolume.png");
+	-fx-background-size: 20 20;
+}
+
+#mute-button-high:hover {
+	-fx-background-image: url("/assets/icons/highVolumeSelected.png");
+	-fx-background-size: 20 20;
+}
+
+#mute-button-medi{
+	-fx-background-image: url("/assets/icons/mediVolume.png");
+	-fx-background-size: 20 20;
+}
+
+#mute-button-medi:hover {
+	-fx-background-image: url("/assets/icons/mediVolumeSelected.png");
+	-fx-background-size: 20 20;
+}
+
+#mute-button-low{
+	-fx-background-image: url("/assets/icons/lowVolume.png");
+	-fx-background-size: 20 20;
+}
+
+#mute-button-low:hover {
+	-fx-background-image: url("/assets/icons/lowVolumeSelected.png");
+	-fx-background-size: 20 20;
+}
+
+#mute-button-mute{
+	-fx-background-image: url("/assets/icons/mute.png");
+	-fx-background-size: 20 20;
+}
+
+#mute-button-mute:hover {
+	-fx-background-image: url("/assets/icons/muteSelected.png");
+	-fx-background-size: 20 20;
+}

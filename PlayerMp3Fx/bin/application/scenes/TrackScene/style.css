@@ -1,0 +1,41 @@
+.info-label {
+	-fx-font-size: 18px;
+}
+
+#title-label {
+	-fx-font-size: 25px;
+	-fx-text-fill: white;
+}
+
+#interpret-label {
+	-fx-font-size: 20px;
+	-fx-text-fill: white;
+}
+
+#BPane {
+	-fx-background-color: linear-gradient(#535353, #212121);
+}
+
+#header {
+	-fx-background-color: #121212;
+}
+
+.icon-button{
+	-fx-min-width: 52;
+	-fx-min-height: 42;
+	-fx-background-color: transparent;
+	-fx-background-repeat: no-repeat no-repeat;
+	-fx-background-size: 38 38;
+	-fx-background-position: center;
+	
+}
+
+#show-playing{
+	-fx-background-image: url("/assets/icons/nowPlaying.png");
+	-fx-background-size: 25 25;
+} 
+
+#show-playing:hover{
+	-fx-background-image: url("/assets/icons/nowPlayingSelected.png");
+	-fx-background-size: 25 25;
+} 

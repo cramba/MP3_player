@@ -1,0 +1,35 @@
+.info-label {
+	-fx-font-size: 20px;
+	-fx-text-fill: white;
+}
+
+#title-label {
+	-fx-font-size: 25px;
+}
+
+#BPane {
+	-fx-background-color: linear-gradient(#535353, #212121);
+}
+
+#header {
+	-fx-background-color: #121212;
+}
+
+.icon-button{
+	-fx-min-width: 52;
+	-fx-min-height: 42;
+	-fx-background-color: transparent;
+	-fx-background-repeat: no-repeat no-repeat;
+	-fx-background-size: 38 38;
+	-fx-background-position: center;
+}
+
+#show-tracks{
+	-fx-background-image: url("/assets/icons/playlist.png");
+	-fx-background-size: 25 25;
+} 
+
+#show-tracks:hover{
+	-fx-background-image: url("/assets/icons/playlistSelected.png");
+	-fx-background-size: 25 25;
+} 

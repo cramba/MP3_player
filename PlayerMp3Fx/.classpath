@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/marcbachmann/Documents/Medieninformatik/3. Semester/EIBO/Praktikum/UE 01/libarys/eibo_simpleminim_new.jar"/>
+	<classpathentry kind="lib" path="/Users/marcbachmann/Documents/Medieninformatik/3. Semester/EIBO/Praktikum/UE 01/libarys/eibo_staticscanner.jar"/>
+	<classpathentry kind="lib" path="/Users/marcbachmann/Documents/Medieninformatik/3. Semester/EIBO/Praktikum/UE 01/libarys/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/marcbachmann/Documents/Medieninformatik/3. Semester/EIBO/Praktikum/UE 01/libarys/jsminim.jar"/>
+	<classpathentry kind="lib" path="/Users/marcbachmann/Documents/Medieninformatik/3. Semester/EIBO/Praktikum/UE 01/libarys/minim.jar"/>
+	<classpathentry kind="lib" path="/Users/marcbachmann/Documents/Medieninformatik/3. Semester/EIBO/Praktikum/UE 01/libarys/mp3spi1.9.5.jar"/>
+	<classpathentry kind="lib" path="/Users/marcbachmann/Documents/Medieninformatik/3. Semester/EIBO/Praktikum/UE 01/libarys/tritonus_aos.jar"/>
+	<classpathentry kind="lib" path="/Users/marcbachmann/Documents/Medieninformatik/3. Semester/EIBO/Praktikum/UE 01/libarys/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="mp3agic.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

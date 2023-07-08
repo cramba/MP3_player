@@ -1,0 +1,107 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.button{
+	-fx-font-weight: bold;
+	-fx-background-color: red;
+}
+
+#hBox {
+	/*-fx-background-color: linear-gradient(#04B45F, #81F79F);*/
+	-fx-background-color: #535353
+}
+
+
+
+.icon-button{
+	-fx-min-width: 52;
+	-fx-min-height: 42;
+	-fx-background-color: transparent;
+	-fx-background-repeat: no-repeat no-repeat;
+	-fx-background-size: 38 38;
+	-fx-background-position: center;
+	
+}
+
+#play-button {
+	-fx-background-image: url("/assets/icons/play.png");
+}
+
+#play-button:hover {
+	-fx-background-image: url("/assets/icons/playSelected.png");
+	-fx-background-size: 40 40;
+}
+
+
+
+#pause-button {
+	-fx-background-image: url("/assets/icons/pause.png");
+}
+
+#pause-button:hover {
+	-fx-background-image: url("/assets/icons/pauseSelected.png");
+	-fx-background-size: 40 40;
+}
+
+
+
+#skip-button {
+	-fx-background-image: url("/assets/icons/skip.png");
+	-fx-background-size: 20 20;
+}
+
+#skip-button:hover {
+	-fx-background-image: url("/assets/icons/skipSelected.png");
+}
+
+
+
+#skipback-button {
+	-fx-background-image: url("/assets/icons/skipBack.png");
+		-fx-background-size: 20 20;
+}
+
+#skipback-button:hover {
+	-fx-background-image: url("/assets/icons/skipBackSelected.png");
+}
+
+
+
+#repeat-off {
+	-fx-background-image: url("/assets/icons/repeat.png");
+		-fx-background-size: 20 20;
+}
+
+#repeat-off:hover {
+	-fx-background-image: url("/assets/icons/repeatSelected.png");
+}
+
+#repeat-on {
+	-fx-background-image: url("/assets/icons/repeatActivated.png");
+	-fx-background-size: 20 20;
+}
+
+#repeat-on:hover {
+	-fx-background-image: url("/assets/icons/repeatActivatedHover.png");
+	-fx-background-size: 20 20;
+}
+
+
+
+#shuffle-off {
+	-fx-background-image: url("/assets/icons/shuffle.png");
+	-fx-background-size: 20 20;
+}
+
+#shuffle-off:hover {
+	-fx-background-image: url("/assets/icons/shuffleSelected.png");
+	-fx-background-size: 20 20;
+}
+
+#shuffle-on {
+	-fx-background-image: url("/assets/icons/shuffleActivated.png");
+	-fx-background-size: 20 20;
+}
+
+#shuffle-on:hover {
+	-fx-background-image: url("/assets/icons/shuffleActivatedSelected.png");
+	-fx-background-size: 20 20;
+}
